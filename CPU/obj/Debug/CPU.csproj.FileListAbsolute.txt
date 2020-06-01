@@ -1,0 +1,9 @@
+E:\Working\C# Programs\CPU\CPU\bin\Debug\CPU.exe.config
+E:\Working\C# Programs\CPU\CPU\bin\Debug\CPU.exe
+E:\Working\C# Programs\CPU\CPU\bin\Debug\CPU.pdb
+E:\Working\C# Programs\CPU\CPU\obj\Debug\CPU.csprojResolveAssemblyReference.cache
+E:\Working\C# Programs\CPU\CPU\obj\Debug\CPU.CPU.resources
+E:\Working\C# Programs\CPU\CPU\obj\Debug\CPU.Properties.Resources.resources
+E:\Working\C# Programs\CPU\CPU\obj\Debug\CPU.csproj.GenerateResource.Cache
+E:\Working\C# Programs\CPU\CPU\obj\Debug\CPU.exe
+E:\Working\C# Programs\CPU\CPU\obj\Debug\CPU.pdb
